@@ -1,0 +1,15 @@
+name: pandas_talk
+channels:
+- conda-forge
+- defaults
+dependencies:
+- ipython
+- pandas
+- matplotlib
+- notebook
+- numpy
+- pillow
+- pip
+- pip:
+  - pydot-ng
+  - graphviz  
